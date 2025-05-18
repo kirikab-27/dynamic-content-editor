@@ -2,8 +2,8 @@
   "name": "dynamic-content-editor",
   "version": "1.0.0",
   "scripts": {
-    "dev": "concurrently \"npm run start --prefix server\" \"npm run dev --prefix client\""
-  },
+  "dev": "concurrently \"npm run start --prefix server\" \"npm run dev --prefix client\""
+},
   "devDependencies": {
     "concurrently": "^8.0.1"
   }

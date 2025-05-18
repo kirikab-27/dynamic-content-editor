@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+logs
+*.log
+
+# dotenv environment files
+.env
+
+# Build output
+build/
+dist/
+
+# Coverage directory
+coverage/
+
+# macOS system files
+.DS_Store
